@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently on a Learning Spree 😅
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects and level up my skills
+- 🥅 2023 Goals: Contribute more to Open Source projects and level up my skills
 
 ### Connect with me:
 
