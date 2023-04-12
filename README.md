@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello, I'm Aditya <br>I'm a CSE 3rd Year Undergraduate student at University of Engineering and Management Kolkata<br>VBA Developer Intern at Wipro Limited,Kolkata<br><br>🌱 I’m currently on a Learning Spree 😅<br>👯 I’m looking to collaborate with other content creators<br>🥅 2023 Goals: Contribute more to Open Source projects and level up my skills
 
 
