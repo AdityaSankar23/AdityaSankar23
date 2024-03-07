@@ -1,6 +1,6 @@
 # About Me:
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" align=right>
-Hello, I'm Aditya <br>I'm a CSE 3rd Year Undergraduate student at University of Engineering and Management Kolkata<br>VBA Developer Intern at Wipro Limited,Kolkata<br><br>🌱 I’m currently on a Learning Spree 😅<br>👯 I’m looking to collaborate with other content creators<br>🥅 2023 Goals: Contribute more to Open Source projects and level up my skills
+Hello, I'm Aditya <br>I'm a CSE 4th Year Undergraduate student at University of Engineering and Management Kolkata<br>VBA Developer Intern at Wipro Limited,Kolkata<br><br>🌱 I’m currently on a Learning Spree 😅<br>👯 I’m looking to collaborate with other content creators<br>🥅 2024 Goals: Contribute more to Open Source projects and level up my skills
 
 
 # 💻 Tech Stack:
